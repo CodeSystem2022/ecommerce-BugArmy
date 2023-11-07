@@ -20,7 +20,6 @@
 
 ### Introducción
 <p>
-&emsp; 
 BugAmazon es mucho más que un simple sitio de compras en línea. Es un escaparate virtual que ofrece una amplia gama de productos, desde electrónica hasta moda, hogar y más. Nuestro objetivo es proporcionar a los usuarios una experiencia de compra excepcional, fácil de usar y segura. Nos enorgullece presentar BugAmazon como un proyecto que combina innovación tecnológica con el espíritu emprendedor.
 </p>
 
