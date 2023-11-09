@@ -1,8 +1,12 @@
-<div align="center">
-  <h1>BugAmazon</h1>
-  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/86500110/d7b91566-7c54-460e-b19e-b5622673cf9e)g" height="200"/>
+<div align=center>
+  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/86500110/d7b91566-7c54-460e-b19e-b5622673cf9e)g" height="250"/>
 </div>
 
+
+
+&ensp;      
+&ensp;     
+  
 ## Introducción
 
 ¡Bienvenidos a **BugAmazon**, un emocionante proyecto integrador de la Universidad Tecnológica Nacional (UTN) en San Rafael! BugAmazon es mucho más que un simple sitio de compras en línea; es un escaparate virtual que ofrece una amplia gama de productos, desde electrónica hasta artículos para el hogar, tecnología y mucho más. Nuestro compromiso es brindar a los usuarios una experiencia de compra excepcional, fácil de usar y segura.
