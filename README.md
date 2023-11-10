@@ -23,10 +23,10 @@ Deberan activar la opcion de permitir aplicaciones de origen desconocido en su c
 Al crear el correo si el boton realiza la animacion, su cuenta ha sido creada y pueden logearse! 
 
 <div align="center">
-  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/3e2e1f7c-21fb-44a0-92b5-0ed4ca50f6d9" width="250px" style="margin: 10px;"/>
-  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/1f95b64c-ab66-4897-9ab4-9697297c8a34" width="250px" style="margin: 10px;"/>
-  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/0c6305c5-92a3-46b6-a9b3-e31bbc1a644a" width="250px" style="margin: 10px;"/>
-  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/05fd9dec-6591-4069-88a0-b780bff56286" width="250px" style="margin: 10px;"/>
+  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/3e2e1f7c-21fb-44a0-92b5-0ed4ca50f6d9" width="200px" style="margin: 10px;"/>
+  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/1f95b64c-ab66-4897-9ab4-9697297c8a34" width="200px" style="margin: 10px;"/>
+  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/0c6305c5-92a3-46b6-a9b3-e31bbc1a644a" width="200px" style="margin: 10px;"/>
+  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/05fd9dec-6591-4069-88a0-b780bff56286" width="200px" style="margin: 10px;"/>
 </div>
 
 
