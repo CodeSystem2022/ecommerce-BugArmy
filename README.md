@@ -1,7 +1,6 @@
 <div align=center>
-  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/86500110/d7b91566-7c54-460e-b19e-b5622673cf9e)g" height="250"/>
+  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/91286415/60504149-fc28-48a6-bb1e-0c51a8c8a879" height="250"/>
 </div>
-
 
 
 &ensp;      
@@ -9,11 +8,9 @@
   
 ## Introducción
 
-¡Bienvenidos a **BugAmazon**, un emocionante proyecto integrador de la Universidad Tecnológica Nacional (UTN) en San Rafael! BugAmazon es mucho más que un simple sitio de compras en línea; es un escaparate virtual que ofrece una amplia gama de productos, desde electrónica hasta artículos para el hogar, tecnología y mucho más. Nuestro compromiso es brindar a los usuarios una experiencia de compra excepcional, fácil de usar y segura.
+¡Bienvenidos a nuestro emocionante proyecto integrador de la Universidad Tecnológica Nacional (UTN) en San Rafael! Aquí, encontrarás un escaparate virtual con una amplia gama de productos, desde electrónica hasta artículos para el hogar y tecnología. Nos dedicamos a ofrecer una experiencia de compra excepcional, fácil y segura, combinando innovación tecnológica con un enfoque emprendedor.
 
-En BugAmazon, combinamos la innovación tecnológica con un enfoque emprendedor para crear una plataforma que satisface diversas necesidades de compra. Nuestro objetivo es proporcionar a nuestros clientes una experiencia única, donde la emoción de descubrir nuevos productos se mezcla con la calidad y la comodidad.
-
-Así que, ¡bienvenidos a BugAmazon, donde la variedad y la calidad se encuentran en un solo lugar! Estamos encantados de que nos acompañes en este emocionante viaje de compras en línea.
+En BugAmazon, fusionamos la emoción de descubrir nuevos productos con calidad y comodidad. Te invitamos a unirte a este emocionante viaje de compras en línea, donde la variedad y la calidad se encuentran en un solo lugar. ¡Bienvenido a una experiencia única!
 
 ## Índice
 
@@ -78,15 +75,32 @@ Nuestra meta es que los usuarios se sientan inspirados por la diversidad de prod
 
 Con el objetivo de abordar el proyecto para dispositivos móviles Android y garantizar una aplicación de comercio electrónico segura, eficiente y capaz de ofrecer una experiencia de usuario excepcional, hemos implementado las siguientes tecnologías:
 
-- **Entorno de desarrollo:** Android Studio.
-- **Empaquetamiento y arquitectura de Software:** MVVM (Model-View-ViewModel).
-- **Gestor de dependencias:** Gradle.
-- **Lenguaje de programación:** Kotlin.
+- **Entorno de desarrollo:**
+  + Android Studio.
+- **Empaquetamiento y arquitectura de Software:**
+  + MVVM (Model-View-ViewModel).
+- **Gestor de dependencias:**
+  + Gradle.
+- **Lenguaje de programación:**
+  + Kotlin.
 - **APIs:**
   +  Firebase Auth
   +  Firebase Firestore
   +  Firebase Storage.
-- **Implementaciones:** Principio SOLID
+  +  Firebase Cloud Storage.
+- **Implementaciones:**
+  + Principio SOLID.
+  + Corrutinas.
+  + LiveData.
+  + View Binding.
+  + Flows (asincronismo).
+- **Base de datos:**
+  + Firebase.
+- **Otras herramientas:**
+  + Git.
+  + GitHub.
+  + Trello.
+  + Discord.
 
 ## Integrantes
 
