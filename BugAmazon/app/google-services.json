@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375261257956",
+    "project_id": "ecommerce-app-19283",
+    "storage_bucket": "ecommerce-app-19283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375261257956:android:d6178636f93a281c424cf1",
+        "android_client_info": {
+          "package_name": "com.chimy.ecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIWrFb0uQfjUMGL_XLWc13wnKg5iGqrfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

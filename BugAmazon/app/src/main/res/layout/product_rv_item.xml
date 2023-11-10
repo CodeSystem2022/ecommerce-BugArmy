@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/g_card_background"
+    app:elevation="0dp">
+
+    <ImageView
+        android:id="@+id/img_product"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_light"
+        android:text="Chair"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/img_favorite"
+        android:layout_width="25sp"
+        android:layout_height="25sp"
+        android:layout_marginTop="8dp"
+        android:layout_gravity="end"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_favorite_foreground"
+        app:tint="@color/g_blue_gray200" />
+
+    <TextView
+        android:id="@+id/tv_new_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/sf_pro_display"
+        android:text="$1600"
+        android:textColor="@color/black"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/tv_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/sf_pro_display"
+        android:text="$1600"
+        android:textColor="@color/black"
+        android:textSize="12sp" />
+</LinearLayout>
+

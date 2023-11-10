@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:name=".EcommerAppAplication"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_bugamazonblue"
+        android:label="BugAmazon"
+        android:roundIcon="@mipmap/ic_bugamazonblue"
+        android:supportsRtl="false"
+        android:enableOnBackInvokedCallback="true"
+        android:theme="@style/Theme.EcommerceApp"
+        tools:targetApi="31">
+        <activity
+            android:name=".activities.LoginRegisterActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.chimy.ecommerceapp.activities.ShoppingActivity">
+            <!-- Otras configuraciones de actividad -->
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/ic_home_foreground"
+        android:id="@+id/homeFragment"
+        >
+    </item>
+    <item android:title="Search"
+        android:icon="@drawable/ic_search_foreground"
+        android:id="@+id/searchFragment"
+        >
+    </item>
+    <item android:title="Cart"
+        android:icon="@drawable/ic_cart_foreground"
+        android:id="@+id/cartFragment"
+        >
+    </item>
+    <item android:title="Profile"
+        android:icon="@drawable/ic_profile_foreground"
+        android:id="@+id/profileFragment"
+        >
+    </item>
+
+</menu>
