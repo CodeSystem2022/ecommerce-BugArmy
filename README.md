@@ -1,26 +1,30 @@
-<div align=center>
-  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/91286415/60504149-fc28-48a6-bb1e-0c51a8c8a879" height="250"/>
-</div>
 
 
-&ensp;      
-&ensp;     
-  
-## Introducción:
+  <div align="center">
+    <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/91286415/60504149-fc28-48a6-bb1e-0c51a8c8a879" height="250"/>
+  </div>
 
-¡Bienvenido a BugAmazon! Estamos emocionados de que puedan probar nuestra app, explorando nuestro rincón virtual lleno de posibilidades de compras. En BugAmazon, hemos creado un espacio donde la conveniencia se encuentra con la calidad y la variedad, brindándote una experiencia de compra única. Fusionamos la emoción de descubrir nuevos productos con calidad y comodidad. Te invitamos a unirte a este emocionante viaje de compras en línea, donde la variedad y la calidad se encuentran en un solo lugar.
-Optamos por desarrollar nuestro proyecto principalmente en inglés para aumentar su alcance. Al utilizar un idioma universal, buscamos superar barreras lingüísticas y conectar con una audiencia más amplia.
 
-## Brief:
+<details>
+  <summary><b>Introducción</b></summary>
 
-https://docs.google.com/document/d/1ZP8-pnBBR7xIPP3mTFnnxrVkxcrHNJw7TezEEibd2yA/edit?usp=sharing
+¡Bienvenido a BugAmazon! Explora nuestro rincón virtual lleno de posibilidades de compras, donde la conveniencia se encuentra con la calidad y la variedad. Fusionamos la emoción de descubrir nuevos productos con calidad y comodidad. Únete a este emocionante viaje de compras en línea.
 
-## Como usar:
-IMPORTANTE: NO DEBEN LEVANTAR NINGÚN SERVIDOR NI NADA, LA BASE DE DATOS ESTÁ ALOJADA DE MANERA REMOTA Y FUNCIONANDO LAS 24HS.
+Optamos por desarrollar nuestro proyecto principalmente en inglés para aumentar su alcance y superar barreras lingüísticas.
+</details>
 
-APP: Para utilizar nuestra app solo debeN descargar el apk en la seccion de "Releases" instalarlo en tu celular y creaR una cuenta para poder logear.
-Deberan activar la opcion de permitir aplicaciones de origen desconocido en su celular, ya que no está subida a ninguna appstore.
-Al crear el correo si el boton realiza la animacion, su cuenta ha sido creada y pueden logearse! 
+<details>
+  <summary><b>Brief</b></summary>
+
+[Enlace al documento](https://docs.google.com/document/d/1ZP8-pnBBR7xIPP3mTFnnxrVkxcrHNJw7TezEEibd2yA/edit?usp=sharing)
+</details>
+
+<details>
+  <summary><b>Cómo usar</b></summary>
+
+**IMPORTANTE: NO LEVANTAR SERVIDORES NI NADA, LA BASE DE DATOS ESTÁ ALOJADA REMOTAMENTE Y FUNCIONANDO LAS 24HS.**
+
+- **APP:** Descarga el APK en la sección de "Releases", instálalo en tu celular y crea una cuenta para iniciar sesión. Activa la opción de permitir aplicaciones de origen desconocido en tu celular. Si el botón realiza la animación, ¡tu cuenta está creada y puedes iniciar sesión!
 
 <div align="center">
   <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/3e2e1f7c-21fb-44a0-92b5-0ed4ca50f6d9" width="200px" style="margin: 10px;"/>
@@ -28,20 +32,22 @@ Al crear el correo si el boton realiza la animacion, su cuenta ha sido creada y 
   <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/0c6305c5-92a3-46b6-a9b3-e31bbc1a644a" width="200px" style="margin: 10px;"/>
   <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/05fd9dec-6591-4069-88a0-b780bff56286" width="200px" style="margin: 10px;"/>
 </div>
+</details>
 
-
-## Información General
+<details>
+  <summary><b>Información General</b></summary>
 
 - **Nombre del grupo:** BugArmy
 - **Materias:** Laboratorio IV
 - **Profesor:** Ariel Betancud
 - **Carrera:** Tecnicatura Universitaria en Programación
 - **Institución:** Universidad Tecnológica Nacional Facultad Regional San Rafael
+</details>
 
+<details>
+  <summary><b>Requisitos Técnicos</b></summary>
 
-## Requisitos Técnicos
-
-Con el objetivo de abordar el proyecto para dispositivos móviles Android y garantizar una aplicación de comercio electrónico segura, eficiente y capaz de ofrecer una experiencia de usuario excepcional, hemos implementado las siguientes tecnologías:
+Con el objetivo de abordar el proyecto para dispositivos móviles Android, hemos implementado las siguientes tecnologías:
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -58,20 +64,28 @@ Con el objetivo de abordar el proyecto para dispositivos móviles Android y gara
   </a>
 </p>
 
-
 - **Entorno de desarrollo:**
   + Android Studio.
 - **Empaquetamiento y arquitectura de Software:**
-  + MVVM (Model-View-ViewModel).
+ + MVVM (Model-View-ViewModel).
+   
+<div align="center">
+  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/e646f498-e624-45de-8c1a-da1d866763a2.png" width="350px" style="margin: 10px;"/>
+</div>
+
 - **Gestor de dependencias:**
   + Gradle.
+    Gradle es una herramienta de construcción de proyectos que automatiza tareas como compilación y gestión de dependencias. Ampliamente utilizado en Java y Android, simplifica el desarrollo de software con una sintaxis flexible y eficiente.
 - **Lenguaje de programación:**
   + Kotlin.
+    
+Kotlin es un lenguaje de programación moderno y conciso, especialmente utilizado en desarrollo Android, conocido por su sintaxis clara y seguridad nula.
 - **APIs:**
   +  Firebase Auth
   +  Firebase Firestore
   +  Firebase Storage.
   +  Firebase Cloud Storage.
+    Firebase es una plataforma de desarrollo de aplicaciones móviles y web desarrollada por Google. Ofrece una variedad de servicios como base de datos en tiempo real, autenticación de usuarios, alojamiento web, y funciones en la nube. Firebase facilita el desarrollo rápido y eficiente de aplicaciones al proporcionar una infraestructura escalable y herramientas integradas para mejorar la calidad y funcionalidad de las aplicaciones.
 - **Implementaciones:**
   + Principio SOLID.
   + Corrutinas.
@@ -86,8 +100,10 @@ Con el objetivo de abordar el proyecto para dispositivos móviles Android y gara
   + GitHub.
   + Trello.
   + Discord.
+</details>
 
-## Integrantes
+<details>
+  <summary><b>Integrantes</b></summary>
 
 - [Jose Luis Guajardo](https://github.com/chimydevs)
 - [Facundo Gervasi](https://github.com/FacundoGerv)
@@ -100,3 +116,5 @@ Con el objetivo de abordar el proyecto para dispositivos móviles Android y gara
 - [Sergio Mezzabotta](https://github.com/SergioMezzabotta)
 - [Rodrigo Amoros](https://github.com/rodrigoamoros)
 - [Agustin Pinillos](https://github.com/Pini14)
+</details>
+
