@@ -72,25 +72,25 @@ Con el objetivo de abordar el proyecto para dispositivos móviles Android, hemos
     <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/e646f498-e624-45de-8c1a-da1d866763a2.png" width="350px" style="margin: 10px;"/>
   </div>
 
-*Estructura del proyecto*
+ *Estructura del proyecto*
 
-- ecommerce app
-  - activities
-  - adapters
-  - data
-    - order
-  - di
-  - dialog
-  - firebase
-  - fragments
-    - categories
-    - login register
-    - settings
-    - shopping
-  - helper
-  - util
-  - viewmodel
-    - factory
+>  - ecommerce app
+>    + activities
+>    + adapters
+>    + data
+>      * order
+>    + di
+>    + dialog
+>    + firebase
+>    + fragments
+>      * categories
+>      * login register
+>      * settings
+>      * shopping
+>    + helper
+>    + util
+>    + viewmodel
+>      * factory
 
 
 - **Gestor de dependencias:**
