@@ -6,22 +6,29 @@
 &ensp;      
 &ensp;     
   
-## Introducción
+## Introducción:
 
-¡Bienvenidos a nuestro emocionante proyecto integrador de la Universidad Tecnológica Nacional (UTN) en San Rafael! Aquí, encontrarás un escaparate virtual con una amplia gama de productos, desde electrónica hasta artículos para el hogar y tecnología. Nos dedicamos a ofrecer una experiencia de compra excepcional, fácil y segura, combinando innovación tecnológica con un enfoque emprendedor.
+¡Bienvenido a BugAmazon! Estamos emocionados de que puedan probar nuestra app, explorando nuestro rincón virtual lleno de posibilidades de compras. En BugAmazon, hemos creado un espacio donde la conveniencia se encuentra con la calidad y la variedad, brindándote una experiencia de compra única. Fusionamos la emoción de descubrir nuevos productos con calidad y comodidad. Te invitamos a unirte a este emocionante viaje de compras en línea, donde la variedad y la calidad se encuentran en un solo lugar.
+Optamos por desarrollar nuestro proyecto principalmente en inglés para aumentar su alcance. Al utilizar un idioma universal, buscamos superar barreras lingüísticas y conectar con una audiencia más amplia.
 
-En BugAmazon, fusionamos la emoción de descubrir nuevos productos con calidad y comodidad. Te invitamos a unirte a este emocionante viaje de compras en línea, donde la variedad y la calidad se encuentran en un solo lugar. ¡Bienvenido a una experiencia única!
+## Brief:
 
-## Índice
+https://docs.google.com/document/d/1ZP8-pnBBR7xIPP3mTFnnxrVkxcrHNJw7TezEEibd2yA/edit?usp=sharing
 
-- [Introducción](#introducción)
-- [Información General](#información-general)
-- [Alcance](#alcance)
-- [Objetivo Público](#objetivo-público)
-- [Entrega del Producto](#entrega-del-producto)
-- [Tono y Estilo del Ecommerce](#tono-y-estilo-del-ecommerce)
-- [Requisitos Técnicos](#requisitos-técnicos)
-- [Integrantes](#integrantes)
+## Como usar:
+IMPORTANTE: NO DEBEN LEVANTAR NINGÚN SERVIDOR NI NADA, LA BASE DE DATOS ESTÁ ALOJADA DE MANERA REMOTA Y FUNCIONANDO LAS 24HS.
+
+APP: Para utilizar nuestra app solo debeN descargar el apk en la seccion de "Releases" instalarlo en tu celular y creaR una cuenta para poder logear.
+Deberan activar la opcion de permitir aplicaciones de origen desconocido en su celular, ya que no está subida a ninguna appstore.
+Al crear el correo si el boton realiza la animacion, su cuenta ha sido creada y pueden logearse! 
+
+<div align="center">
+  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/3e2e1f7c-21fb-44a0-92b5-0ed4ca50f6d9" width="250px" style="margin: 10px;"/>
+  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/1f95b64c-ab66-4897-9ab4-9697297c8a34" width="250px" style="margin: 10px;"/>
+  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/0c6305c5-92a3-46b6-a9b3-e31bbc1a644a" width="250px" style="margin: 10px;"/>
+  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/05fd9dec-6591-4069-88a0-b780bff56286" width="250px" style="margin: 10px;"/>
+</div>
+
 
 ## Información General
 
@@ -31,49 +38,26 @@ En BugAmazon, fusionamos la emoción de descubrir nuevos productos con calidad y
 - **Carrera:** Tecnicatura Universitaria en Programación
 - **Institución:** Universidad Tecnológica Nacional Facultad Regional San Rafael
 
-## Alcance
-
-La aplicación móvil de comercio electrónico ofrecerá una amplia selección de productos. Los usuarios podrán:
-
-- Navegar por el catálogo de productos.
-- Buscar productos por categorías y palabras clave.
-- Ver detalles de los productos, incluyendo imágenes y descripciones.
-- Agregar productos al carrito de compras.
-- Realizar compras seguras a través de un proceso de pago sencillo.
-- Realizar un seguimiento de sus pedidos.
-- Recibir recomendaciones personalizadas y disfrutar de una experiencia de usuario atractiva.
-
-## Objetivo Público
-
-Nuestra audiencia objetivo son personas de todas las edades que buscan comprar productos de alta calidad. Nos enfocamos en atraer a compradores en línea experimentados y novatos que buscan comodidad, calidad y estilo en una sola plataforma, satisfaciendo así las necesidades del consumidor.
-
-## Entrega del Producto
-
-Nuestro objetivo es garantizar que los productos lleguen a los clientes de manera oportuna y en perfecto estado. Para lograr esto, hemos establecido las siguientes pautas:
-
-1. **Gestión de Inventario:** Mantenemos un sistema de gestión de inventario en tiempo real para garantizar que los productos estén disponibles y se actualicen con precisión en la aplicación.
-
-2. **Política de Devoluciones y Cambios:** Establecemos una política de devoluciones y cambios clara y justa para garantizar que los clientes puedan devolver productos defectuosos o que no cumplan con sus expectativas.
-
-3. **Socios de Logística Confiables:** Trabajamos con socios de logística confiables y de renombre para garantizar que los productos se entreguen de manera segura y puntual.
-
-4. **Notificaciones y Comunicación:** Informamos a los clientes sobre el estado de su pedido a través de notificaciones en la aplicación y correos electrónicos. Además, brindamos un canal de comunicación eficaz para consultas y problemas relacionados con la entrega.
-
-5. **Seguridad de Datos de Envío:** Garantizamos la seguridad de los datos de envío de los clientes, protegiendo la información personal y de ubicación de acuerdo con las regulaciones de privacidad de datos aplicables.
-
-6. **Evaluación Continua:** Realizamos evaluaciones regulares del rendimiento de la entrega y recopilamos retroalimentación de los clientes para mejorar continuamente nuestros procesos de entrega.
-
-## Tono y Estilo del Ecommerce
-
-BugAmazon está diseñada para ofrecer una experiencia de compra emocionante y de alta calidad para una amplia variedad de productos. Nuestro objetivo es brindar a los usuarios inspiración y emoción al descubrir nuevos productos y tendencias en nuestra plataforma.
-
-La experiencia de compra en BugAmazon se caracteriza por su fluidez y gratificación. Hemos diseñado cuidadosamente cada paso del proceso para que los usuarios puedan navegar de manera intuitiva y disfrutar de un proceso de compra claro y fácil de seguir. Valoramos la comodidad y la simplicidad, permitiendo a los usuarios encontrar lo que desean y realizar compras de manera eficiente y satisfactoria.
-
-Nuestra meta es que los usuarios se sientan inspirados por la diversidad de productos que ofrecemos y, al mismo tiempo, disfruten de una experiencia de compra sin obstáculos. BugAmazon se esfuerza por combinar la emoción de descubrir nuevos productos con la facilidad de uso, creando así una experiencia de usuario excepcional.
 
 ## Requisitos Técnicos
 
 Con el objetivo de abordar el proyecto para dispositivos móviles Android y garantizar una aplicación de comercio electrónico segura, eficiente y capaz de ofrecer una experiencia de usuario excepcional, hemos implementado las siguientes tecnologías:
+
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+</p>
+
 
 - **Entorno de desarrollo:**
   + Android Studio.
@@ -94,8 +78,9 @@ Con el objetivo de abordar el proyecto para dispositivos móviles Android y gara
   + LiveData.
   + View Binding.
   + Flows (asincronismo).
+  + Glide
 - **Base de datos:**
-  + Firebase.
+  + Firebase firestore.
 - **Otras herramientas:**
   + Git.
   + GitHub.
