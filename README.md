@@ -1,5 +1,4 @@
 
-
   <div align="center">
     <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/91286415/60504149-fc28-48a6-bb1e-0c51a8c8a879" height="250"/>
   </div>
@@ -67,11 +66,32 @@ Con el objetivo de abordar el proyecto para dispositivos móviles Android, hemos
 - **Entorno de desarrollo:**
   + Android Studio.
 - **Empaquetamiento y arquitectura de Software:**
- + MVVM (Model-View-ViewModel).
+  + MVVM (Model-View-ViewModel).
    
-<div align="center">
-  <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/e646f498-e624-45de-8c1a-da1d866763a2.png" width="350px" style="margin: 10px;"/>
-</div>
+  <div align="center">
+    <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/e646f498-e624-45de-8c1a-da1d866763a2.png" width="350px" style="margin: 10px;"/>
+  </div>
+
+*Estructura del proyecto*
+
+- ecommerce app
+  - activities
+  - adapters
+  - data
+    - order
+  - di
+  - dialog
+  - firebase
+  - fragments
+    - categories
+    - login register
+    - settings
+    - shopping
+  - helper
+  - util
+  - viewmodel
+    - factory
+
 
 - **Gestor de dependencias:**
   + Gradle.
