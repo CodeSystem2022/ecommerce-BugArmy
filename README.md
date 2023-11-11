@@ -24,7 +24,7 @@ Optamos por desarrollar nuestro proyecto principalmente en inglés para aumentar
 
 **IMPORTANTE: NO LEVANTAR SERVIDORES NI NADA, LA BASE DE DATOS ESTÁ ALOJADA REMOTAMENTE Y FUNCIONANDO LAS 24HS.**
 
-- **APP:** Descarga el APK en la sección de "Releases", instálalo en tu celular y crea una cuenta para iniciar sesión. Activa la opción de permitir aplicaciones de origen desconocido en tu celular. Si el botón realiza la animación, ¡tu cuenta está creada y puedes iniciar sesión!
+- **APP:** Descarga el APK en la sección de "Releases", instálalo en tu celular y crea una cuenta para iniciar sesión. Activa la opción de permitir aplicaciones de origen desconocido en tu celular!
 
 <div align="center">
   <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/3e2e1f7c-21fb-44a0-92b5-0ed4ca50f6d9" width="200px" style="margin: 10px;"/>
