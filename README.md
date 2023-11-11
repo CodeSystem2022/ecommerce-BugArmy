@@ -1,4 +1,5 @@
 
+
   <div align="center">
     <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/91286415/60504149-fc28-48a6-bb1e-0c51a8c8a879" height="250"/>
   </div>
@@ -73,24 +74,47 @@ Con el objetivo de abordar el proyecto para dispositivos móviles Android, hemos
   </div>
 
  *Estructura del proyecto*
-
->  - ecommerce app
->    + activities
->    + adapters
->    + data
->      * order
->    + di
->    + dialog
->    + firebase
->    + fragments
->      * categories
->      * login register
->      * settings
->      * shopping
->    + helper
->    + util
->    + viewmodel
->      * factory
+<dl>
+  <dd>
+    <details>
+      <summary><strong>ecommerce app</strong> <em>(click aqui para desplegar)</em></summary>
+      <span>&emsp;» activities</span></br>
+      <span>&emsp;» adapters</span></br>        
+      <dl>
+        <dd>
+          <details>
+            <summary>data</summary>
+            <span>&emsp;» order</span>
+          </details>
+        </dd>
+      </dl>
+      <span>&emsp;» di</span></br>
+      <span>&emsp;» dialog</span></br>
+      <span>&emsp;» firebase</span></br >
+      <dl>
+        <dd>
+          <details>
+            <summary>fragments</summary>
+            <span>&emsp;» categories</span></br>
+            <span>&emsp;» login</span></br>
+            <span>&emsp;» register</span></br><span>&emsp;» settings</span></></br >
+            <span>&emsp;» shopping</span></br>
+          </details>
+       </dd>
+      </dl>
+      <span>&emsp;» helper</span></br>
+      <span>&emsp;» util</span></br>
+      <dl>
+        <dd>
+          <details>
+            <summary>viewmodel</summary>
+            <span>&emsp;» factory</span>
+          </details>
+        </dd>
+      </dl>
+    </details>
+  </dd>
+</dl>
 
 
 - **Gestor de dependencias:**
