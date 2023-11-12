@@ -125,11 +125,11 @@ Con el objetivo de abordar el proyecto para dispositivos móviles Android, hemos
     
 Kotlin es un lenguaje de programación moderno y conciso, especialmente utilizado en desarrollo Android, conocido por su sintaxis clara y seguridad nula.
 - **APIs:**
+*Firebase* es una plataforma de desarrollo de aplicaciones móviles y web desarrollada por Google. Ofrece una variedad de servicios como base de datos en tiempo real, autenticación de usuarios, alojamiento web, y funciones en la nube. Firebase facilita el desarrollo rápido y eficiente de aplicaciones al proporcionar una infraestructura escalable y herramientas integradas para mejorar la calidad y funcionalidad de las aplicaciones.
   +  Firebase Auth
   +  Firebase Firestore
   +  Firebase Storage.
   +  Firebase Cloud Storage.
-    Firebase es una plataforma de desarrollo de aplicaciones móviles y web desarrollada por Google. Ofrece una variedad de servicios como base de datos en tiempo real, autenticación de usuarios, alojamiento web, y funciones en la nube. Firebase facilita el desarrollo rápido y eficiente de aplicaciones al proporcionar una infraestructura escalable y herramientas integradas para mejorar la calidad y funcionalidad de las aplicaciones.
 - **Implementaciones:**
   + Principio SOLID.
   + Corrutinas.
