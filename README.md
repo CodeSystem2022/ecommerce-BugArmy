@@ -35,6 +35,15 @@ Optamos por desarrollar nuestro proyecto principalmente en inglés para aumentar
 </details>
 
 <details>
+  <summary><b>Video</b></summary>
+  
+
+https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/103722148/30220bb7-8cfe-444e-822f-04461b80723e
+
+
+</details>
+
+<details>
   <summary><b>Información General</b></summary>
 
 - **Nombre del grupo:** BugArmy
