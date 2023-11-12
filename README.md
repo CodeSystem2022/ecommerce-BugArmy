@@ -20,6 +20,15 @@ Optamos por desarrollar nuestro proyecto principalmente en inglés para aumentar
 </details>
 
 <details>
+  <summary><b>Video</b></summary>
+  
+
+https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/103722148/30220bb7-8cfe-444e-822f-04461b80723e
+
+
+</details>
+
+<details>
   <summary><b>Cómo usar</b></summary>
 
 **IMPORTANTE: NO LEVANTAR SERVIDORES NI NADA, LA BASE DE DATOS ESTÁ ALOJADA REMOTAMENTE Y FUNCIONANDO LAS 24HS.**
@@ -32,15 +41,6 @@ Optamos por desarrollar nuestro proyecto principalmente en inglés para aumentar
   <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/0c6305c5-92a3-46b6-a9b3-e31bbc1a644a" width="200px" style="margin: 10px;"/>
   <img src="https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/79487697/05fd9dec-6591-4069-88a0-b780bff56286" width="200px" style="margin: 10px;"/>
 </div>
-</details>
-
-<details>
-  <summary><b>Video</b></summary>
-  
-
-https://github.com/CodeSystem2022/ecommerce-BugArmy/assets/103722148/30220bb7-8cfe-444e-822f-04461b80723e
-
-
 </details>
 
 <details>
